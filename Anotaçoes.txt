@@ -1,0 +1,1 @@
+Introdução ao Github Na sua essência, o GitHub é um serviço que permite hospedar seus repositórios Git on-line e colaborar com uma série de outros usuários. Você tanto pode utilizar o GitHub por meio de seu portal na web, bem como a GUI (Interface Gráfica do Usuário) da área de trabalho do GitHub e o Git Shell.
